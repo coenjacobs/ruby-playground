@@ -1,0 +1,3 @@
+# Ruby Playground
+
+I needed a space to put in all my ruby experiments, so here it is...
